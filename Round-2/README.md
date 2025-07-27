@@ -1,4 +1,4 @@
-# 📦 BCON AI — SAP Hackfest Submission
+# 📦 BCON AI — SAP Hackfest Submission (Round 2 )
 
 Welcome to the **BCON AI** project — a smart supply chain and transparency platform powered by SAP technology, with a focus on end-to-end trust in food and ingredient sourcing for restaurants, suppliers, delivery aggregators, and end consumers.
 
@@ -70,10 +70,3 @@ Below is a summary of **updates and improvements in the State Round (BConAi_Stat
 **Thank you!**  
 *For full architecture, stakeholder journeys, and business model breakdown, refer to the attached State Round PDF.*
 
-[1] [BConAi_StateRound.pdf]  
-[2] [BConAi.pdf]  
-[3] [README.md]
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/84002443/36ca3324-a118-47cb-b0b7-925c9ca48633/BConAi_StateRound.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/84002443/a6a0befb-6c10-451c-b488-ba47f2b3d78f/BConAi.pdf
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/84002443/dbb7832e-d03b-453e-984e-7d8d5eb152bd/README.md
