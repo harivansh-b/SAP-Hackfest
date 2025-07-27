@@ -68,5 +68,4 @@ Below is a summary of **updates and improvements in the State Round (BConAi_Stat
 | Hussain                  | Market Research & UX     |
 
 **Thank you!**  
-*For full architecture, stakeholder journeys, and business model breakdown, refer to the attached State Round PDF.*
-
+*For full architecture, stakeholder journeys, and business model breakdown, refer to the attached State Round PDF.
